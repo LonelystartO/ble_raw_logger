@@ -1,0 +1,15 @@
+{
+  "domain": "ble_raw_logger",
+  "name": "BLE Raw Logger",
+  "version": "1.0.0",
+  "documentation": "https://example.com",
+  "requirements": [],
+  "codeowners": [
+    "@yourgithub"
+  ],
+  "dependencies": [
+    "bluetooth"
+  ],
+  "iot_class": "local_push",
+  "config_flow": false
+}
